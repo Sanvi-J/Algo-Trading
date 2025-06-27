@@ -1,6 +1,7 @@
 We started this course by first understanding some basics about stock market and finance. The mentors provided some reading material and videos to refer for the week 0. 
 
 Stock Market:
+
 Investment in Equities involves buying shares of publicly listed companies. The shares are traded on the Bombay Stock Exchange (BSE) and the National Stock Exchange (NSE).
 Investing in some of the best and most well-run Indian companies has yielded over 20% CAGR in the long term. Identifying such investment opportunities requires skill, hard work, and patience.
 The stock market is an electronic marketplace. Buyers and sellers electronically express their points of view in terms of trade. 
@@ -11,6 +12,7 @@ Scalper – A type of day trader. A scalper usually trades very large shares and
 Swing Trader – A swing trader holds on to the trade for a slightly longer; the duration can run anywhere between a few days to weeks. 
 
 Basic terminologies:
+
  Bull Market (Bullish) – If you expect the stock prices to go up, you are bullish on the stock price. From a broader perspective, if the stock market index is going up during a particular period, it is referred to as a bull market. 
  Bear Market (Bearish) – If you expect the stock prices to go down, you are bearish on the stock price. From a broader perspective, if the stock market index goes down during a particular period, it is referred to as a bear market.
  Trend – The term ‘trend’ usually refers to the general market direction and its associated momentum in the market. For example, if the market is declining fast, the trend is said to be bearish. If the market is trading flat with no movement, then the trend is said to be sideways.
